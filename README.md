@@ -1,16 +1,29 @@
-## Hi there 👋
+## Привет, я Александр 👋
 
-<!--
-**Ananas223/Ananas223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий backend-разработчик на Python. Студент 2 курса, ищу стажировку.
 
-Here are some ideas to get you started:
+### Что я умею
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Языки:** Python, C++, SQL
+- **Фреймворки:** Django, Django REST Framework
+- **Инструменты:** Docker, docker-compose, Git, Linux
+- **CI/CD:** Jenkins, понимание GitLab CI/CD
+
+### Проекты
+
+- **Quiz Service** — backend для сервиса квизов на Django + PostgreSQL + Docker
+- **ROS-модули для робота-доставщика** — обработка данных с сенсоров на Python (хакатон)
+
+### Достижения
+
+- Финалист ВСОШ по робототехнике
+- Участник вузовского хакатона по робототехнике
+
+### Контакты
+
+- Telegram: @aleksandrbabuskin
+- Email: aleksandrbabuskin702@gmail.com
+
+---
+
+*Ищу стажировку backend-разработчика. Готов учиться и быстро осваивать новый стек.*
