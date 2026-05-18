@@ -11,7 +11,7 @@
 
 ### Проекты
 
-- **Quiz Service** — backend для сервиса квизов на Django + PostgreSQL + Docker
+- **QuizMe** — backend для сервиса квизов на Django
 - **ROS-модули для робота-доставщика** — обработка данных с сенсоров на Python (хакатон)
 
 ### Достижения
